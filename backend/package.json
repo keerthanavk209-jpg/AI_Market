@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "fetch": "^1.1.0",
+    "nodemailer": "^7.0.4",
+    "nodemo": "^1.0.0",
+    "nodemon": "^3.1.11",
+    "redis": "^5.5.6"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  }
+}
