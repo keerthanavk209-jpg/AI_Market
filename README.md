@@ -42,7 +42,7 @@ Styling: CSS, Tailwind CSS / Bootstrap
 Deployment: Vercel / Netlify / RailWay
 
 
-🛠️ Working Process
+## 🛠️ Working process
 
 1.User Authentication & Profile Setup:
 Users register and log in to the system. User preferences and budget details are stored to personalize recommendations.
